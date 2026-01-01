@@ -1,0 +1,7 @@
+{
+  "name": "GameSci Bot: Class 9 Science",
+  "description": "An interactive education bot that teaches Class 9 Science concepts using examples from popular video games like Minecraft, Mario, and Portal. Features a rapid-fire quiz and a real-time voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
